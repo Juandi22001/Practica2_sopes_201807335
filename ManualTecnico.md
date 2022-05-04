@@ -1,5 +1,5 @@
 # SISTEMAS OPERATIVOS 1
-##  Proyecto 1 
+##  Practica 2
 
 ---
 
