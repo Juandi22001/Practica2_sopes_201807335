@@ -1,5 +1,5 @@
 # SISTEMAS OPERATIVOS 1
-##  Proyecto 1 
+##  Practica 2   
 
 ---
 
@@ -37,11 +37,18 @@
 ### Luego  tenemos que escribir el body de la siguiente  manera para asi  hacer la peticion que querramos 
 ![3](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/body.png)
 
-## MONGO DB 
+## MONGO Compass 
 
-![4](https://github.com/Juandi22001/Practica1Sopes/blob/main/Manuales/Img/mongo.png)
+![4](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/mongo-compass.png)
 
-## :beginner:Para almacenar todos logs en la base de datos , se hizo  uso de la base de datos no relacional Mongo db para asi guardar la información de una manera  mas rapida  y evitar problema de tipos  <a name="id4"></a>
+## :beginner: Para poder ver los logs en la base de datos se hizo uso de mongo compass , para poder en si los logs<a name="id4"></a>
+
+
+### Primero ingresamos el uri de nuestra base de datos
+
+![4](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/mongo.png)
+### luego nosvamos a la seccion de Databases y la coleccion que querremos ver para poder ver todos los logs 
 
 
 
+![4](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/mongo2.png)
