@@ -15,9 +15,9 @@
 # Views
 
 :round_pushpin: [Requisitos](#id2)
-:round_pushpin: [Kafka](#id3)
+:round_pushpin: [Generar las peticiones](#id3)
 
-:round_pushpin: [Base de datos](#id4)
+:round_pushpin: [Ver los logs](#id4)
 
 <br>
 <br>
