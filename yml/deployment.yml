@@ -25,7 +25,7 @@ spec:
           ports:
             - containerPort: 5000
         - name: grpc-server
-          image: jd2200/server-grpc-go:v2
+          image: jd2200/server-grpc-p2:v2
           ports:
             - containerPort: 50555
 ---
