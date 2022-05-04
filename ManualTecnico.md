@@ -1,5 +1,5 @@
 # SISTEMAS OPERATIVOS 1
-##  Proyecto 1 
+##  Practica 2
 
 ---
 
@@ -32,7 +32,7 @@
 
 
 ## KAFKA
-![3](https://github.com/solaresjuan98/sopes1-proyecto-1s2022/blob/main/Manuales/Imagenes/volumes.jpg)
+![3](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/kafka.jpg)
 ## :beginner: Como cola  se hizo de kafka   para asi esta pasar por un consumer y almacenar la data en la base de datos de mongo <a name="id3"></a>
 
 ## MONGO DB 
@@ -43,10 +43,11 @@
 
 
 
-![5](https://github.com/solaresjuan98/sopes1-proyecto-1s2022/blob/main/Manuales/Imagenes/cloud_functions.png)
-## Kubernethes
-## :beginner:  Se hizo uso de kubernethes , para poder    hacer peticiones y asi agregar toda la información a la base de datos.
 
+## Kubernethes
+![5](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/kuber.png)
+## :beginner:  Se hizo uso de kubernethes , para poder    hacer peticiones y asi agregar toda la información a la base de datos.
+## Servicio
 
 ![6](https://github.com/solaresjuan98/sopes1-proyecto-1s2022/blob/main/Manuales/Imagenes/load_balancer.png)
 
