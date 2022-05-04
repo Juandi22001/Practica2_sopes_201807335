@@ -46,9 +46,9 @@
 
 ### Primero ingresamos el uri de nuestra base de datos
 
-![4](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/mongo.png)
+![4](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/mongo2.png)
 ### luego nosvamos a la seccion de Databases y la coleccion que querremos ver para poder ver todos los logs 
 
 
 
-![4](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/mongo2.png)
+![4](https://github.com/Juandi22001/Practica2_sopes_201807335/blob/main/Imagenes/mongo.png)
