@@ -1,0 +1,9 @@
+Flask
+Flask-BasicAuth
+Flask-Cors
+requests
+requests-file
+requests-unixsocket
+mysql-connector-python
+flask_mysqldb
+itsdangerous
