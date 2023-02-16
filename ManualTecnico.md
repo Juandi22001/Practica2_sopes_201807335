@@ -5,7 +5,7 @@
 
 ### Universidad de San Carlos de Guatemala
 ### Primer Semestre 2022
-###  Juan Diego Alvarado Salguero
+###  Juan Diego Alvarado Salguerooooooo
 
 ### Manual Tecnico
 
